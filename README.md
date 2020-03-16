@@ -15,5 +15,5 @@ sudo docker build -t readcounts-image readcounts-image/
 3. Run the scrip
 
 ```
-sudo docker run -v `pwd`:`pwd` -w `pwd` -it readcounts-image python3  ReadCounts.py -f#SequencingFolderName
+sudo docker run -v `pwd`:`pwd` -w `pwd` -it readcounts-image python3  ReadCounts.py -f #SequencingFolderName
 ```
