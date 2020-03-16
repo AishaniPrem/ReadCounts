@@ -1,2 +1,2 @@
 # ReadCounts
-The purpose of this script is to read a sequencing folder (MiSeq and MiniSeq only) and output the read count for the each samples in the run
+The purpose of this script is to output the read count for the each samples in a sequencing run
