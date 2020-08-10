@@ -4,7 +4,7 @@ The purpose of this script is to output the read count for the each samples in a
 ## To run the code 
 1. Git clone this repository.
 ```
-git clone 
+git clone https://github.com/AishaniPrem/ReadCounts.git
 ```
 
 2. Create docker image 
